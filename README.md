@@ -1,6 +1,6 @@
 # desafio-ia-dio
  Natural ou Fake Natty desafio da DIO
-# Título do Projeto Extremamente Aesthetic ;)
+# Musica criada por ia
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para criaçao de uma letra
